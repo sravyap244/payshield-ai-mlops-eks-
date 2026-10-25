@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PayShield AI
+data/
+*.csv
+*.zip
+*.parquet
+.env
+kaggle.json
+mlruns/
+.ipynb_checkpoints/
+node_modules/
